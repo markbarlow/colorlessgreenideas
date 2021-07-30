@@ -1,2 +1,3 @@
 # colorlessgreenideas
-Colorless green ideas sleep furiously
+"Colorless green ideas sleep furiously"
+Noam Chomksy
